@@ -1,4 +1,5 @@
 # Hello-world
 
-This is first use.
+This is first time use.
 
+The second time use.
